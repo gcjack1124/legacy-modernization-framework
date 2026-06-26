@@ -68,6 +68,15 @@
 
 ---
 
+## 系列案例 | Part of a series
+
+這是「**用 AI Agent 逆向 + 現代化 legacy 企業系統**」定位下的案例之一，與另外兩案互補：
+
+- 🔌 **[eip-form-mcp](https://github.com/gcjack1124/eip-form-mcp)** — 把一個無文件的企業表單系統，逆向成 AI Agent 可呼叫的 MCP 工具鏈
+- 📱 **[iqc-invoice-ocr-pwa](https://github.com/gcjack1124/iqc-invoice-ocr-pwa)** — 真實上線的全棧 PWA：手機拍進貨單據 → OCR → 跟 ERP 對賬 → 歸檔
+
+---
+
 ## License
 
 [MIT](LICENSE)
